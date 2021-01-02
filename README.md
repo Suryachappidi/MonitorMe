@@ -4,4 +4,7 @@ Machines get **overheated** due to overloading and also frequent start and stops
 ## What it does
 ![Alt text](https://raw.githubusercontent.com/Suryachappidi/MonitorMe/main/pptstuff/s2.PNG)
 ![Alt text](https://raw.githubusercontent.com/Suryachappidi/MonitorMe/main/pptstuff/s1.PNG)
-![Alt text](https://raw.githubusercontent.com/Suryachappidi/MonitorMe/main/pptstuff/s3.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suryachappidi/MonitorMe/main/pptstuff/s3.jpeg" width="700" alt="accessibility text">
+</p>
+
