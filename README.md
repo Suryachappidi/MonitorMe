@@ -1,4 +1,4 @@
-## MonitorMe
+# MonitorMe
 Machines get **overheated** due to overloading and also frequent start and stops. There is also a problem of **current fluctuation** which can cause a bad effect on the internal circuitry thereby damaging it. The other reason is the excess of **vibration** caused by the poor design of the machine.
 
 ## What it does
